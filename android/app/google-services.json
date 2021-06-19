@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "904311640885",
+    "firebase_url": "https://susthack-942a8.firebaseio.com",
+    "project_id": "susthack-942a8",
+    "storage_bucket": "susthack-942a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904311640885:android:d7557df396af128b",
+        "android_client_info": {
+          "package_name": "com.kingscoder.sust_hack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904311640885-6qm8uer2s6h0iird0vmmbri7o7da0jpb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgV8JFWKSHo3DrHlTR_aYiF4dU_RKoT3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904311640885-6qm8uer2s6h0iird0vmmbri7o7da0jpb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904311640885:android:c3ed3b3757fe87046a727c",
+        "android_client_info": {
+          "package_name": "com.pirox.news_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904311640885-6qm8uer2s6h0iird0vmmbri7o7da0jpb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgV8JFWKSHo3DrHlTR_aYiF4dU_RKoT3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904311640885-6qm8uer2s6h0iird0vmmbri7o7da0jpb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
